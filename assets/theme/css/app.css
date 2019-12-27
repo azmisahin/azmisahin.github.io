@@ -1,0 +1,20 @@
+/*
+    ████████████████████████████████████████████████████████████████████████████████████████████████████
+    * Application: Azmi ŞAHİN
+    * https://azmisahin.com/
+    ════════════════════════════════════════════════════════════════════════════════════════════════════
+    * Copyright azmisahin@outlook.com
+    * Licence (https://azmisahin.gitlab.io/LICENSE)
+    ████████████████████████████████████████████████████████████████████████████████████████████████████
+*/
+
+dfn {
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: solid 1px gray;
+}
+  dfn:hover {
+    background-color: #c23544;
+    border: solid 1px white;
+    color: white;
+  }
