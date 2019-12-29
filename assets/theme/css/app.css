@@ -8,13 +8,25 @@
     ████████████████████████████████████████████████████████████████████████████████████████████████████
 */
 
-dfn {
+[is="article-page"] > [is="article-header"] {
+  padding: 1%;
+  background: #575757;
+  color: #FFFFFF;
+}
+
+footer nav {
+  padding: 1%;
+  background: white;
+}
+
+footer dfn {
   background-color: #ffffff;
   border-radius: 5px;
   border: solid 1px gray;
 }
-  dfn:hover {
-    background-color: #c23544;
-    border: solid 1px white;
-    color: white;
-  }
+
+dfn:hover {
+  background-color: #c23544;
+  border: solid 1px white;
+  color: white;
+}
